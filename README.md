@@ -3,7 +3,7 @@
 ## Author: Emad Idris
 
 
-[![Netlify Status](https://pedantic-lalande-215f39.netlify.app/todo-app/)
+![Netlify Status](https://pedantic-lalande-215f39.netlify.app/todo-app/)
 
 
 ## todo Phase 1:
